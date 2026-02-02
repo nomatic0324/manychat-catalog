@@ -20,7 +20,7 @@
       "size_liters": 20,
       "laptop_max_inches": 16,
       "use_case_tags": ["travel", "one_bag"],
-      "variant_hint": "Select the 20L option on the product page if the user wants 20L."
+      "variant_hint": "Select the 20L option on the product page."
     },
     {
       "id": "navigator-travel-backpack-32l",
