@@ -1,0 +1,105 @@
+{
+  "brand": "NOMATIC",
+  "category": "edc_slings",
+  "products": [
+    {
+      "id": "navigator-sling-10l",
+      "name": "Navigator Sling 10L",
+      "url": "https://www.nomatic.com/products/navigator-sling-10l",
+      "product_type": "sling",
+      "size_liters": 10,
+      "use_case_tags": ["edc", "travel", "everyday"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-sling-6l",
+      "name": "Navigator Sling 6L",
+      "url": "https://www.nomatic.com/products/navigator-sling-6l",
+      "product_type": "sling",
+      "size_liters": 6,
+      "use_case_tags": ["edc", "minimal", "everyday"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-sling-1l",
+      "name": "Navigator Sling 1L",
+      "url": "https://www.nomatic.com/products/navigator-sling-1l",
+      "product_type": "sling",
+      "size_liters": 1,
+      "use_case_tags": ["edc", "minimal", "pocket_carry"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-rs-sling-10l",
+      "name": "Navigator RS Sling 10L",
+      "url": "https://www.nomatic.com/products/navigator-rs-sling-10l",
+      "product_type": "sling",
+      "size_liters": 10,
+      "use_case_tags": ["edc", "travel", "weather-resistant"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-rs-sling-6l",
+      "name": "Navigator RS Sling 6L",
+      "url": "https://www.nomatic.com/products/navigator-rs-sling-6l",
+      "product_type": "sling",
+      "size_liters": 6,
+      "use_case_tags": ["edc", "minimal", "weather-resistant"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-rs-sling-1l",
+      "name": "Navigator RS Sling 1L",
+      "url": "https://www.nomatic.com/products/navigator-rs-sling-1l",
+      "product_type": "sling",
+      "size_liters": 1,
+      "use_case_tags": ["edc", "minimal", "weather-resistant", "pocket_carry"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-collapsible-sling-3l",
+      "name": "Navigator Collapsible Sling 3L",
+      "url": "https://www.nomatic.com/products/navigator-collapsible-sling-3l",
+      "product_type": "sling",
+      "size_liters": 3,
+      "use_case_tags": ["edc", "travel", "packable"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-collapsible-sling-6l",
+      "name": "Navigator Collapsible Sling 6L",
+      "url": "https://www.nomatic.com/products/navigator-collapsible-sling-6l",
+      "product_type": "sling",
+      "size_liters": 6,
+      "use_case_tags": ["edc", "travel", "packable"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "navigator-collapsible-tote-28l",
+      "name": "Navigator Collapsible Tote 28L",
+      "url": "https://www.nomatic.com/products/navigator-collapsible-tote-28l",
+      "product_type": "tote",
+      "size_liters": 28,
+      "use_case_tags": ["travel", "packable", "day_bag"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "access-sling",
+      "name": "Access Sling",
+      "url": "https://www.nomatic.com/products/access-sling",
+      "product_type": "sling",
+      "size_liters": null,
+      "use_case_tags": ["edc", "tech", "accessories"],
+      "laptop_max_inches": null
+    },
+    {
+      "id": "access-pouch",
+      "name": "Access Pouch",
+      "url": "https://www.nomatic.com/products/access-pouch",
+      "product_type": "accessory",
+      "size_liters": null,
+      "use_case_tags": ["edc", "tech", "organization"],
+      "laptop_max_inches": null
+    }
+  ]
+}
