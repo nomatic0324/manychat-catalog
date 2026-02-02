@@ -5,7 +5,8 @@
     {
       "id": "travel-pack-14l",
       "name": "Travel Pack 14L",
-      "url": "https://www.nomatic.com/products/the-nomatic-travel-pack-14l",
+      "url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
+      "variant_url": "https://www.nomatic.com/products/the-nomatic-travel-pack?variant=39715430793288",
       "product_type": "backpack",
       "size_liters": 14,
       "laptop_max_inches": 16,
@@ -18,25 +19,8 @@
       "product_type": "backpack",
       "size_liters": 20,
       "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "one_bag"]
-    },
-    {
-      "id": "backpack-14l",
-      "name": "Backpack 14L",
-      "url": "https://www.nomatic.com/products/the-nomatic-backpack-14l",
-      "product_type": "backpack",
-      "size_liters": 14,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "work", "minimal"]
-    },
-    {
-      "id": "backpack-20l",
-      "name": "Backpack 20L",
-      "url": "https://www.nomatic.com/products/the-nomatic-backpack",
-      "product_type": "backpack",
-      "size_liters": 20,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "work", "one_bag"]
+      "use_case_tags": ["travel", "one_bag"],
+      "variant_hint": "Select the 20L option on the product page if the user wants 20L."
     },
     {
       "id": "navigator-travel-backpack-32l",
@@ -45,7 +29,7 @@
       "product_type": "backpack",
       "size_liters": 32,
       "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "carry_on"]
+      "use_case_tags": ["travel", "carry_on", "extended_trips"]
     }
   ]
 }
