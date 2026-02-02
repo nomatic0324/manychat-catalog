@@ -3,38 +3,49 @@
   "category": "edc_backpacks",
   "products": [
     {
-      "id": "the-nomatic-backpack",
-      "name": "Backpack",
+      "id": "backpack-14l",
+      "name": "Backpack 14L",
       "url": "https://www.nomatic.com/products/the-nomatic-backpack",
+      "variant_url": "https://www.nomatic.com/products/the-nomatic-backpack?variant=39979864129608",
       "product_type": "backpack",
-      "size_options_liters": [14, 20],
+      "size_liters": 14,
       "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work", "minimal_travel"]
+      "use_case_tags": ["edc", "work", "minimal"]
     },
     {
-      "id": "navigator-backpack-15l",
+      "id": "backpack-20l",
+      "name": "Backpack 20L",
+      "url": "https://www.nomatic.com/products/the-nomatic-backpack",
+      "product_type": "backpack",
+      "size_liters": 20,
+      "laptop_max_inches": 16,
+      "use_case_tags": ["edc", "work"],
+      "variant_hint": "Select the 20L option on the product page if the user wants 20L."
+    },
+    {
+      "id": "navigator-pack-15l",
       "name": "Navigator Pack 15L",
       "url": "https://www.nomatic.com/products/navigator-backpack-15l",
       "product_type": "backpack",
-      "size_options_liters": [15],
+      "size_liters": 15,
       "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work"]
+      "use_case_tags": ["edc", "work", "commute"]
     },
     {
       "id": "navigator-rs-pack-15l",
       "name": "Navigator RS Pack 15L",
       "url": "https://www.nomatic.com/products/navigator-rs-pack-15l",
       "product_type": "backpack",
-      "size_options_liters": [15],
+      "size_liters": 15,
       "laptop_max_inches": 16,
       "use_case_tags": ["edc", "work", "lightweight"]
     },
     {
-      "id": "navigator-collapsible-backpack",
+      "id": "navigator-collapsible-pack-16l",
       "name": "Navigator Collapsible Pack 16L",
       "url": "https://www.nomatic.com/products/navigator-collapsible-backpack",
       "product_type": "backpack",
-      "size_options_liters": [16],
+      "size_liters": 16,
       "laptop_max_inches": 16,
       "use_case_tags": ["edc", "travel", "packable"]
     }
