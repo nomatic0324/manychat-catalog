@@ -1,0 +1,43 @@
+{
+  "brand": "NOMATIC",
+  "category": "edc_backpacks",
+  "products": [
+    {
+      "id": "the-nomatic-backpack",
+      "name": "Backpack",
+      "url": "https://www.nomatic.com/products/the-nomatic-backpack",
+      "product_type": "backpack",
+      "size_options_liters": [14, 20],
+      "laptop_max_inches": 16,
+      "use_case_tags": ["edc", "work", "minimal_travel"]
+    },
+    {
+      "id": "navigator-backpack-15l",
+      "name": "Navigator Pack 15L",
+      "url": "https://www.nomatic.com/products/navigator-backpack-15l",
+      "product_type": "backpack",
+      "size_options_liters": [15],
+      "laptop_max_inches": 16,
+      "use_case_tags": ["edc", "work"]
+    },
+    {
+      "id": "navigator-rs-pack-15l",
+      "name": "Navigator RS Pack 15L",
+      "url": "https://www.nomatic.com/products/navigator-rs-pack-15l",
+      "product_type": "backpack",
+      "size_options_liters": [15],
+      "laptop_max_inches": 16,
+      "use_case_tags": ["edc", "work", "lightweight"]
+    },
+    {
+      "id": "navigator-collapsible-backpack",
+      "name": "Navigator Collapsible Pack 16L",
+      "url": "https://www.nomatic.com/products/navigator-collapsible-backpack",
+      "product_type": "backpack",
+      "size_options_liters": [16],
+      "laptop_max_inches": 16,
+      "use_case_tags": ["edc", "travel", "packable"]
+    }
+  ]
+}
+
