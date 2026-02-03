@@ -84,27 +84,11 @@
       "product_type": "clothing",
       "apparel_type": "pants",
       "fit_tags": ["everyday", "travel", "bottoms"]
-    },
-    {
-      "id": "the-outset-pant-slim-fit",
-      "name": "Outset Pant - Slim Fit",
-      "url": "https://www.nomatic.com/products/the-outset-pant-slim-fit",
-      "product_type": "clothing",
-      "apparel_type": "pants",
-      "fit_tags": ["travel", "performance", "bottoms"]
-    },
+    },  
     {
       "id": "outset-short-7",
       "name": "Outset Short 7\"",
       "url": "https://www.nomatic.com/products/outset-short-7",
-      "product_type": "clothing",
-      "apparel_type": "shorts",
-      "fit_tags": ["everyday", "travel", "bottoms"]
-    },
-    {
-      "id": "outset-short-9",
-      "name": "Outset Short 9\"",
-      "url": "https://www.nomatic.com/products/outset-short-9",
       "product_type": "clothing",
       "apparel_type": "shorts",
       "fit_tags": ["everyday", "travel", "bottoms"]
