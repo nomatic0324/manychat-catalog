@@ -2,17 +2,9 @@
   "brand": "NOMATIC",
   "category": "clothing",
   "source": "https://www.nomatic.com",
-  "generated_at_local": "2026-02-02 18:15:00",
-  "product_count": 11,
+  "generated_at_local": "2026-02-02 19:40:00",
+  "product_count": 13,
   "products": [
-    {
-      "id": "outset-jacket",
-      "name": "Outset Jacket",
-      "url": "https://www.nomatic.com/products/outset-jacket",
-      "product_type": "clothing",
-      "apparel_type": "jacket",
-      "fit_tags": ["travel", "performance", "outer_layer"]
-    },
     {
       "id": "outset-soft-shell-jacket",
       "name": "Outset Soft-Shell Jacket",
@@ -22,14 +14,100 @@
       "fit_tags": ["travel", "weather", "outer_layer"]
     },
     {
+      "id": "outset-jacket",
+      "name": "Outset Jacket",
+      "url": "https://www.nomatic.com/products/outset-jacket",
+      "product_type": "clothing",
+      "apparel_type": "jacket",
+      "fit_tags": ["travel", "performance", "outer_layer"]
+    },
+    {
+      "id": "the-outset-jacket",
+      "name": "Outset Jacket - Hoodie",
+      "url": "https://www.nomatic.com/products/the-outset-jacket",
+      "product_type": "clothing",
+      "apparel_type": "jacket",
+      "fit_tags": ["travel", "everyday", "outer_layer", "hoodie"]
+    },
+    {
       "id": "flowstate-full-zip-hoodie",
       "name": "Flowstate Full-Zip Hoodie",
       "url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie",
       "product_type": "clothing",
       "apparel_type": "tops",
-      "fit_tags": ["everyday", "layering", "hoodie"]
+      "fit_tags": ["everyday", "layering", "mid_layer", "hoodie"]
     },
     {
       "id": "flowstate-pullover-hoodie",
       "name": "Flowstate Pullover Hoodie",
-      "url": "https://www.nomatic.com/products/flowstate-pullover-hoodie"
+      "url": "https://www.nomatic.com/collections/apparel/products/flowstate-pullover-hoodie",
+      "product_type": "clothing",
+      "apparel_type": "tops",
+      "fit_tags": ["everyday", "layering", "mid_layer", "hoodie"]
+    },
+    {
+      "id": "the-outset-t-shirt",
+      "name": "Outset T-Shirt",
+      "url": "https://www.nomatic.com/products/the-outset-t-shirt",
+      "product_type": "clothing",
+      "apparel_type": "tops",
+      "fit_tags": ["everyday", "travel", "base_layer"]
+    },
+    {
+      "id": "outset-long-sleeve-t-shirt",
+      "name": "Outset Long Sleeve T-Shirt",
+      "url": "https://www.nomatic.com/products/outset-long-sleeve-t-shirt",
+      "product_type": "clothing",
+      "apparel_type": "tops",
+      "fit_tags": ["everyday", "travel", "base_layer", "layering"]
+    },
+    {
+      "id": "outset-polo",
+      "name": "Outset Polo",
+      "url": "https://www.nomatic.com/products/outset-polo",
+      "product_type": "clothing",
+      "apparel_type": "tops",
+      "fit_tags": ["everyday", "travel", "base_layer"]
+    },
+    {
+      "id": "the-outset-jogger",
+      "name": "Outset Jogger",
+      "url": "https://www.nomatic.com/products/the-outset-jogger",
+      "product_type": "clothing",
+      "apparel_type": "pants",
+      "fit_tags": ["everyday", "travel", "bottoms"]
+    },
+    {
+      "id": "the-outset-pant",
+      "name": "Outset Pant - Classic Fit",
+      "url": "https://www.nomatic.com/products/the-outset-pant",
+      "product_type": "clothing",
+      "apparel_type": "pants",
+      "fit_tags": ["everyday", "travel", "bottoms"]
+    },
+    {
+      "id": "the-outset-pant-slim-fit",
+      "name": "Outset Pant - Slim Fit",
+      "url": "https://www.nomatic.com/products/the-outset-pant-slim-fit",
+      "product_type": "clothing",
+      "apparel_type": "pants",
+      "fit_tags": ["travel", "performance", "bottoms"]
+    },
+    {
+      "id": "outset-short-7",
+      "name": "Outset Short 7\"",
+      "url": "https://www.nomatic.com/products/outset-short-7",
+      "product_type": "clothing",
+      "apparel_type": "shorts",
+      "fit_tags": ["everyday", "travel", "bottoms"]
+    },
+    {
+      "id": "outset-short-9",
+      "name": "Outset Short 9\"",
+      "url": "https://www.nomatic.com/products/outset-short-9",
+      "product_type": "clothing",
+      "apparel_type": "shorts",
+      "fit_tags": ["everyday", "travel", "bottoms"]
+    }
+  ]
+}
