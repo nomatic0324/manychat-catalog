@@ -1,0 +1,35 @@
+{
+  "brand": "NOMATIC",
+  "category": "clothing",
+  "source": "https://www.nomatic.com",
+  "generated_at_local": "2026-02-02 18:15:00",
+  "product_count": 11,
+  "products": [
+    {
+      "id": "outset-jacket",
+      "name": "Outset Jacket",
+      "url": "https://www.nomatic.com/products/outset-jacket",
+      "product_type": "clothing",
+      "apparel_type": "jacket",
+      "fit_tags": ["travel", "performance", "outer_layer"]
+    },
+    {
+      "id": "outset-soft-shell-jacket",
+      "name": "Outset Soft-Shell Jacket",
+      "url": "https://www.nomatic.com/products/outset-soft-shell-jacket",
+      "product_type": "clothing",
+      "apparel_type": "jacket",
+      "fit_tags": ["travel", "weather", "outer_layer"]
+    },
+    {
+      "id": "flowstate-full-zip-hoodie",
+      "name": "Flowstate Full-Zip Hoodie",
+      "url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie",
+      "product_type": "clothing",
+      "apparel_type": "tops",
+      "fit_tags": ["everyday", "layering", "hoodie"]
+    },
+    {
+      "id": "flowstate-pullover-hoodie",
+      "name": "Flowstate Pullover Hoodie",
+      "url": "https://www.nomatic.com/products/fl
