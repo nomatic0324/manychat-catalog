@@ -2,7 +2,6 @@
   "brand": "NOMATIC",
   "category": "camera_gear",
   "source": "https://www.nomatic.com",
-  "notes": "To support sold out messaging, maintain availability per item using availability_status. Allowed: in_stock, sold_out, unknown.",
   "products": [
     {
       "id": "mckinnon-camera-backpack-25l",
@@ -10,7 +9,6 @@
       "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l",
       "product_type": "camera_backpack",
       "size_liters": 25,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "daily", "travel"]
     },
     {
@@ -19,8 +17,15 @@
       "url": "https://www.nomatic.com/products/camera-pack",
       "product_type": "camera_backpack",
       "size_liters": 35,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "travel", "carry_on"]
+    },
+    {
+      "id": "luma-camera-pack-18l-1",
+      "name": "Luma Camera Pack 18L",
+      "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1",
+      "product_type": "camera_backpack",
+      "size_liters": 18,
+      "use_case_tags": ["camera", "daily", "travel"]
     },
     {
       "id": "cube-pack",
@@ -28,7 +33,6 @@
       "url": "https://www.nomatic.com/products/cube-pack",
       "product_type": "camera_cube_pack",
       "size_liters": 21,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "insert", "modular"]
     },
     {
@@ -37,7 +41,6 @@
       "url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l",
       "product_type": "camera_messenger",
       "size_liters": 13,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "daily", "work"]
     },
 
@@ -47,8 +50,7 @@
       "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-sling-5l",
       "product_type": "camera_sling",
       "size_liters": 5,
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "daily", "travel"]
+      "use_case_tags": ["camera", "daily", "minimal"]
     },
     {
       "id": "mckinnon-camera-sling-8l",
@@ -56,35 +58,22 @@
       "url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l",
       "product_type": "camera_sling",
       "size_liters": 8,
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-
-    {
-      "id": "luma-camera-pack-18l-1",
-      "name": "Luma Camera Pack 18L",
-      "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1",
-      "product_type": "camera_backpack",
-      "size_liters": 18,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "daily", "travel"]
     },
     {
       "id": "luma-camera-sling-9l-1",
-      "name": "Luma Camera Sling 9L - Sale",
+      "name": "Luma Camera Sling 9L",
       "url": "https://www.nomatic.com/products/luma-camera-sling-9l-1",
       "product_type": "camera_sling",
       "size_liters": 9,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "daily", "travel"]
     },
     {
       "id": "luma-camera-sling-12l-1",
-      "name": "Luma Camera Sling 12L - Sale",
+      "name": "Luma Camera Sling 12L",
       "url": "https://www.nomatic.com/products/luma-camera-sling-12l-1",
       "product_type": "camera_sling",
       "size_liters": 12,
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "daily", "travel"]
     },
 
@@ -93,15 +82,13 @@
       "name": "Accessory Case",
       "url": "https://www.nomatic.com/collections/all-camera/products/accessory-case",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "organization", "accessory"]
+      "use_case_tags": ["camera", "organization", "accessories"]
     },
     {
       "id": "filter-case",
       "name": "Filter Case",
       "url": "https://www.nomatic.com/collections/all-camera/products/filter-case",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "organization", "filters"]
     },
     {
@@ -109,7 +96,6 @@
       "name": "McKinnon Battery Case",
       "url": "https://www.nomatic.com/collections/all-camera/products/battery-case",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "organization", "batteries"]
     },
     {
@@ -117,7 +103,6 @@
       "name": "McKinnon Memory Card Case",
       "url": "https://www.nomatic.com/products/memory-card-case",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "organization", "memory_cards"]
     },
     {
@@ -125,56 +110,48 @@
       "name": "McKinnon Tech Organizer",
       "url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "organization", "cables"]
     },
-
     {
       "id": "peter-mckinnon-camera-bag-accessory-strap-set-of-2",
       "name": "McKinnon Accessory Straps (Set of 2)",
       "url": "https://www.nomatic.com/collections/all-camera/products/peter-mckinnon-camera-bag-accessory-strap-set-of-2",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "accessory", "strap"]
+      "use_case_tags": ["camera", "carry", "straps"]
     },
     {
       "id": "camera-pack-waist-strap",
       "name": "McKinnon Waist Straps",
       "url": "https://www.nomatic.com/products/camera-pack-waist-strap",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "accessory", "strap"]
+      "use_case_tags": ["camera", "carry", "waist_strap"]
     },
     {
       "id": "mckinnon-divider-set",
       "name": "McKinnon Camera Pack 25L Divider Kit",
       "url": "https://www.nomatic.com/products/mckinnon-divider-set",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "organization", "divider"]
+      "use_case_tags": ["camera", "organization", "dividers"]
     },
     {
       "id": "large-divider-set",
       "name": "McKinnon Camera Pack 35L Divider Kit - Long",
       "url": "https://www.nomatic.com/products/large-divider-set",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "organization", "divider"]
+      "use_case_tags": ["camera", "organization", "dividers"]
     },
     {
       "id": "small-divider-set",
       "name": "McKinnon Camera Pack 35L Divider Kit - Short",
       "url": "https://www.nomatic.com/products/small-divider-set",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
-      "use_case_tags": ["camera", "organization", "divider"]
+      "use_case_tags": ["camera", "organization", "dividers"]
     },
     {
       "id": "mckinnon-small-cube-single",
       "name": "McKinnon Camera Cube - Small",
       "url": "https://www.nomatic.com/products/mckinnon-small-cube-single",
       "product_type": "camera_cube",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "insert", "modular"]
     },
     {
@@ -182,7 +159,6 @@
       "name": "McKinnon Camera Cube - Large",
       "url": "https://www.nomatic.com/products/peter-mckinnon-large-packing-cube",
       "product_type": "camera_cube",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "insert", "modular"]
     },
     {
@@ -190,8 +166,8 @@
       "name": "McKinnon Camera Pack 35L Rain Cover",
       "url": "https://www.nomatic.com/products/mckinnon-camera-pack-rain-cover",
       "product_type": "camera_accessory",
-      "availability_status": "unknown",
       "use_case_tags": ["camera", "weather", "rain_cover"]
     }
   ]
 }
+
