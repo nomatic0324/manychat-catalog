@@ -1,35 +1,51 @@
 {
-  "brand": "NOMATIC",
-  "category": "travel_backpacks",
-  "products": [
-    {
-      "id": "travel-pack-14l",
-      "name": "Travel Pack 14L",
-      "url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
-      "variant_url": "https://www.nomatic.com/products/the-nomatic-travel-pack?variant=39715430793288",
-      "product_type": "backpack",
-      "size_liters": 14,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "minimal", "one_bag"]
-    },
-    {
-      "id": "travel-pack-20l",
-      "name": "Travel Pack 20L",
-      "url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
-      "product_type": "backpack",
-      "size_liters": 20,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "one_bag"],
-      "variant_hint": "Select the 20L option on the product page."
-    },
-    {
-      "id": "navigator-travel-backpack-32l",
-      "name": "Navigator Travel Backpack 32L",
-      "url": "https://www.nomatic.com/products/navigator-travel-backpack-32l",
-      "product_type": "backpack",
-      "size_liters": 32,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["travel", "carry_on", "extended_trips"]
-    }
-  ]
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Travel Pack 14L",
+            "subtitle": "14L • Travel, Minimal, One Bag",
+            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Travel-Pack-14L-Front.jpg",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-travel-pack"
+              }
+            ]
+          },
+          {
+            "title": "Travel Pack 20L",
+            "subtitle": "20L • Travel, One Bag",
+            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Travel-Pack-20L-Front.jpg",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-travel-pack"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Travel Backpack 32L",
+            "subtitle": "32L • Carry On, Extended Trips",
+            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Navigator-Travel-Backpack-32L-Front.jpg",
+            "action_url": "https://www.nomatic.com/products/navigator-travel-backpack-32l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-travel-backpack-32l"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
