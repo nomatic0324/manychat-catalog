@@ -1,0 +1,103 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset T-Shirt",
+            "subtitle": "Top • Everyday, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-TS2-MBL_TheOutsetT-Shirt_MineralBlue_NOMATIC_OM_03.png?crop=center&height=550&v=1748532772&width=550",
+            "action_url": "https://www.nomatic.com/products/the-outset-t-shirt",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-outset-t-shirt"
+              }
+            ]
+          },
+          {
+            "title": "Outset Long Sleeve T-Shirt",
+            "subtitle": "Top • Layering, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-LS1-WHT_OutsetLongSleveTeeShirt_White_NOMATIC_01.png?crop=center&height=550&v=1759944457&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-long-sleeve-t-shirt",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-long-sleeve-t-shirt"
+              }
+            ]
+          },
+          {
+            "title": "Flowstate Pullover Hoodie",
+            "subtitle": "Top • Layering, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-HP1-HGR_FlowstateHoodie-Pullover_HeatherGray_NOMATIC_01.png?crop=center&height=550&v=1759955094&width=550",
+            "action_url": "https://www.nomatic.com/products/flowstate-pullover-hoodie",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/flowstate-pullover-hoodie"
+              }
+            ]
+          },
+          {
+            "title": "Flowstate Full-Zip Hoodie",
+            "subtitle": "Top • Zip, Layering",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-HZ1-DOL_FlowstateHoodie-FullZip_DarkOlive_NOMATIC_01.png?crop=center&height=550&v=1759987617&width=550",
+            "action_url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie"
+              }
+            ]
+          },
+          {
+            "title": "Outset Jacket",
+            "subtitle": "Jacket • Everyday, Outer Layer",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-TS1-BLK_TheOutsetJacket_Black_OM_NOMATIC_03.png?crop=center&height=550&v=1759439827&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-jacket",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-jacket"
+              }
+            ]
+          },
+          {
+            "title": "Outset Soft-Shell Jacket",
+            "subtitle": "Jacket • Weather, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SJ1-BLK_OutsetSoftshellJacket-Hoodie_Black_NOMATIC_11.png?crop=center&height=550&v=1762275141&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-soft-shell-jacket",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-soft-shell-jacket"
+              }
+            ]
+          },
+          {
+            "title": "Outset Polo",
+            "subtitle": "Top • Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-PS1-NVY_OutsetPoloSplitHem_Navy_NOMATIC_02.png?crop=center&height=550&v=1759969828&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-polo",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-polo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
