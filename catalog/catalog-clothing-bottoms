@@ -1,0 +1,51 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset Pant - Classic Fit",
+            "subtitle": "Pant • Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-RP1-GRY_OutsetPantClassic_GRAY_NOMATIC_OM_15.png?v=1730757348&width=1100",
+            "action_url": "https://www.nomatic.com/products/the-outset-pant",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-outset-pant"
+              }
+            ]
+          },
+          {
+            "title": "Outset Jogger",
+            "subtitle": "Jogger • Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-JP1-BLK_OutsetJogger_BLACK_NOMATIC_OM_04.png?v=1762198475&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger"
+              }
+            ]
+          },
+          {
+            "title": "Outset Short 7\"",
+            "subtitle": "Short • 7\" Inseam, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SH1-GRY_TheOutsetShorts_7in_GRAY_NOMATIC_OM_11.png?v=1762199806&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/outset-short-7",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/apparel/products/outset-short-7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
