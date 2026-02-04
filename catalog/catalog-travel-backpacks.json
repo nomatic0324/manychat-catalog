@@ -7,8 +7,8 @@
         "elements": [
           {
             "title": "Travel Pack 14L",
-            "subtitle": "14L • Travel, Minimal, One Bag",
-            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Travel-Pack-14L-Front.jpg",
+            "subtitle": "14L • Travel, Minimal",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
             "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
             "buttons": [
               {
@@ -21,7 +21,7 @@
           {
             "title": "Travel Pack 20L",
             "subtitle": "20L • Travel, One Bag",
-            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Travel-Pack-20L-Front.jpg",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
             "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
             "buttons": [
               {
@@ -33,8 +33,8 @@
           },
           {
             "title": "Navigator Travel Backpack 32L",
-            "subtitle": "32L • Carry On, Extended Trips",
-            "image_url": "https://cdn.shopify.com/s/files/1/1300/6871/products/Navigator-Travel-Backpack-32L-Front.jpg",
+            "subtitle": "32L • Carry On, Extended",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
             "action_url": "https://www.nomatic.com/products/navigator-travel-backpack-32l",
             "buttons": [
               {
