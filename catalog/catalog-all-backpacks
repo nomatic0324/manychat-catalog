@@ -1,0 +1,116 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Travel Pack 14L",
+            "subtitle": "14L • Travel, Minimal",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-travel-pack"
+              }
+            ]
+          },
+          {
+            "title": "Travel Pack 20L",
+            "subtitle": "20L • Travel, One Bag",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-travel-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-travel-pack"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Travel Backpack 32L",
+            "subtitle": "32L • Carry On, Extended",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-travel-backpack-32l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-travel-backpack-32l"
+              }
+            ]
+          },
+          {
+            "title": "Backpack 14L",
+            "subtitle": "14L • EDC, Work, Minimal",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-backpack"
+              }
+            ]
+          },
+          {
+            "title": "Backpack 20L",
+            "subtitle": "20L • EDC, Work",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-backpack"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Pack 15L",
+            "subtitle": "15L • EDC, Work, Commute",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-backpack-15l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-backpack-15l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator RS Pack 15L",
+            "subtitle": "15L • Lightweight, Work",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-rs-pack-15l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-rs-pack-15l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Collapsible Pack 16L",
+            "subtitle": "16L • Packable, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-collapsible-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-collapsible-backpack"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
