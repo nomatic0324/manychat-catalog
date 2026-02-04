@@ -32,19 +32,6 @@
             ]
           },
           {
-            "title": "Outset Jacket - Hoodie",
-            "subtitle": "Jacket • Hooded, Travel",
-            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-JT1-BLK_OutsetHoodedJacket_Black_NOMATIC_OM_12.png?crop=center&height=550&v=1762198475&width=550",
-            "action_url": "https://www.nomatic.com/products/the-outset-jacket",
-            "buttons": [
-              {
-                "type": "url",
-                "caption": "View Item",
-                "url": "https://www.nomatic.com/products/the-outset-jacket"
-              }
-            ]
-          },
-          {
             "title": "Flowstate Pullover Hoodie",
             "subtitle": "Top • Layering, Everyday",
             "image_url": "https://www.nomatic.com/cdn/shop/files/AN-HP1-HGR_FlowstateHoodie-Pullover_HeatherGray_NOMATIC_01.png?crop=center&height=550&v=1759955094&width=550",
@@ -123,15 +110,28 @@
             ]
           },
           {
-            "title": "Outset Pant - Slim Fit",
-            "subtitle": "Pant • Slim, Travel",
-            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SP1-KHA_OutsetPantSlim_Khaki_NOMATIC_OM_06.png?crop=center&height=550&v=1767123097&width=550",
-            "action_url": "https://www.nomatic.com/products/the-outset-pant-slim-fit",
+            "title": "Outset Jogger",
+            "subtitle": "Jogger • Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-JP1-BLK_OutsetJogger_BLACK_NOMATIC_OM_04.png?v=1762198475&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger",
             "buttons": [
               {
                 "type": "url",
                 "caption": "View Item",
-                "url": "https://www.nomatic.com/products/the-outset-pant-slim-fit"
+                "url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger"
+              }
+            ]
+          },
+          {
+            "title": "Outset Short 7\"",
+            "subtitle": "Short • 7\" Inseam, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SH1-GRY_TheOutsetShorts_7in_GRAY_NOMATIC_OM_11.png?v=1762199806&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/outset-short-7",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/apparel/products/outset-short-7"
               }
             ]
           }
