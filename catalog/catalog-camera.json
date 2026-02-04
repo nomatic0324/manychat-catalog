@@ -1,173 +1,140 @@
 {
-  "brand": "NOMATIC",
-  "category": "camera_gear",
-  "source": "https://www.nomatic.com",
-  "products": [
-    {
-      "id": "mckinnon-camera-backpack-25l",
-      "name": "McKinnon Camera Pack 25L",
-      "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l",
-      "product_type": "camera_backpack",
-      "size_liters": 25,
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-    {
-      "id": "camera-pack",
-      "name": "McKinnon Camera Pack 35L",
-      "url": "https://www.nomatic.com/products/camera-pack",
-      "product_type": "camera_backpack",
-      "size_liters": 35,
-      "use_case_tags": ["camera", "travel", "carry_on"]
-    },
-    {
-      "id": "luma-camera-pack-18l-1",
-      "name": "Luma Camera Pack 18L",
-      "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1",
-      "product_type": "camera_backpack",
-      "size_liters": 18,
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-    {
-      "id": "cube-pack",
-      "name": "McKinnon Camera Cube Pack 21L",
-      "url": "https://www.nomatic.com/products/cube-pack",
-      "product_type": "camera_cube_pack",
-      "size_liters": 21,
-      "use_case_tags": ["camera", "insert", "modular"]
-    },
-    {
-      "id": "mckinnon-camera-messenger-13l",
-      "name": "McKinnon Camera Messenger 13L",
-      "url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l",
-      "product_type": "camera_messenger",
-      "size_liters": 13,
-      "use_case_tags": ["camera", "daily", "work"]
-    },
-
-    {
-      "id": "mckinnon-camera-sling-5l",
-      "name": "McKinnon Camera Sling 5L",
-      "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-sling-5l",
-      "product_type": "camera_sling",
-      "size_liters": 5,
-      "use_case_tags": ["camera", "daily", "minimal"]
-    },
-    {
-      "id": "mckinnon-camera-sling-8l",
-      "name": "McKinnon Camera Sling 8L",
-      "url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l",
-      "product_type": "camera_sling",
-      "size_liters": 8,
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-    {
-      "id": "luma-camera-sling-9l-1",
-      "name": "Luma Camera Sling 9L",
-      "url": "https://www.nomatic.com/products/luma-camera-sling-9l-1",
-      "product_type": "camera_sling",
-      "size_liters": 9,
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-    {
-      "id": "luma-camera-sling-12l-1",
-      "name": "Luma Camera Sling 12L",
-      "url": "https://www.nomatic.com/products/luma-camera-sling-12l-1",
-      "product_type": "camera_sling",
-      "size_liters": 12,
-      "use_case_tags": ["camera", "daily", "travel"]
-    },
-
-    {
-      "id": "accessory-case",
-      "name": "Accessory Case",
-      "url": "https://www.nomatic.com/collections/all-camera/products/accessory-case",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "accessories"]
-    },
-    {
-      "id": "filter-case",
-      "name": "Filter Case",
-      "url": "https://www.nomatic.com/collections/all-camera/products/filter-case",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "filters"]
-    },
-    {
-      "id": "battery-case",
-      "name": "McKinnon Battery Case",
-      "url": "https://www.nomatic.com/collections/all-camera/products/battery-case",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "batteries"]
-    },
-    {
-      "id": "memory-card-case",
-      "name": "McKinnon Memory Card Case",
-      "url": "https://www.nomatic.com/products/memory-card-case",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "memory_cards"]
-    },
-    {
-      "id": "mckinnon-camera-tech-organizer",
-      "name": "McKinnon Tech Organizer",
-      "url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "cables"]
-    },
-    {
-      "id": "peter-mckinnon-camera-bag-accessory-strap-set-of-2",
-      "name": "McKinnon Accessory Straps (Set of 2)",
-      "url": "https://www.nomatic.com/collections/all-camera/products/peter-mckinnon-camera-bag-accessory-strap-set-of-2",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "carry", "straps"]
-    },
-    {
-      "id": "camera-pack-waist-strap",
-      "name": "McKinnon Waist Straps",
-      "url": "https://www.nomatic.com/products/camera-pack-waist-strap",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "carry", "waist_strap"]
-    },
-    {
-      "id": "mckinnon-divider-set",
-      "name": "McKinnon Camera Pack 25L Divider Kit",
-      "url": "https://www.nomatic.com/products/mckinnon-divider-set",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "dividers"]
-    },
-    {
-      "id": "large-divider-set",
-      "name": "McKinnon Camera Pack 35L Divider Kit - Long",
-      "url": "https://www.nomatic.com/products/large-divider-set",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "dividers"]
-    },
-    {
-      "id": "small-divider-set",
-      "name": "McKinnon Camera Pack 35L Divider Kit - Short",
-      "url": "https://www.nomatic.com/products/small-divider-set",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "organization", "dividers"]
-    },
-    {
-      "id": "mckinnon-small-cube-single",
-      "name": "McKinnon Camera Cube - Small",
-      "url": "https://www.nomatic.com/products/mckinnon-small-cube-single",
-      "product_type": "camera_cube",
-      "use_case_tags": ["camera", "insert", "modular"]
-    },
-    {
-      "id": "peter-mckinnon-large-packing-cube",
-      "name": "McKinnon Camera Cube - Large",
-      "url": "https://www.nomatic.com/products/peter-mckinnon-large-packing-cube",
-      "product_type": "camera_cube",
-      "use_case_tags": ["camera", "insert", "modular"]
-    },
-    {
-      "id": "mckinnon-camera-pack-rain-cover",
-      "name": "McKinnon Camera Pack 35L Rain Cover",
-      "url": "https://www.nomatic.com/products/mckinnon-camera-pack-rain-cover",
-      "product_type": "camera_accessory",
-      "use_case_tags": ["camera", "weather", "rain_cover"]
-    }
-  ]
-}
-
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "McKinnon Camera Pack 25L",
+            "subtitle": "25L • Daily, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l"
+              }
+            ]
+          },
+          {
+            "title": "McKinnon Camera Pack 35L",
+            "subtitle": "35L • Travel, Carry On",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/camera-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/camera-pack"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Pack 18L",
+            "subtitle": "18L • Daily, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/luma-camera-pack-18l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1"
+              }
+            ]
+          },
+          {
+            "title": "Camera Cube Pack 21L",
+            "subtitle": "21L • Modular Insert",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/cube-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/cube-pack"
+              }
+            ]
+          },
+          {
+            "title": "Camera Messenger 13L",
+            "subtitle": "13L • Daily, Work",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l"
+              }
+            ]
+          },
+          {
+            "title": "McKinnon Camera Sling 8L",
+            "subtitle": "8L • Daily, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Sling 9L",
+            "subtitle": "9L • Daily, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/luma-camera-sling-9l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-sling-9l-1"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Sling 12L",
+            "subtitle": "12L • Daily, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/luma-camera-sling-12l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-sling-12l-1"
+              }
+            ]
+          },
+          {
+            "title": "Accessory Case",
+            "subtitle": "Organization • Accessories",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/collections/all-camera/products/accessory-case",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/all-camera/products/accessory-case"
+              }
+            ]
+          },
+          {
+            "title": "Tech Organizer",
+            "subtitle": "Organization • Cables",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
