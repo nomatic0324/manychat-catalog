@@ -1,53 +1,77 @@
 {
-  "brand": "NOMATIC",
-  "category": "edc_backpacks",
-  "products": [
-    {
-      "id": "backpack-14l",
-      "name": "Backpack 14L",
-      "url": "https://www.nomatic.com/products/the-nomatic-backpack",
-      "variant_url": "https://www.nomatic.com/products/the-nomatic-backpack?variant=39979864129608",
-      "product_type": "backpack",
-      "size_liters": 14,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work", "minimal"]
-    },
-    {
-      "id": "backpack-20l",
-      "name": "Backpack 20L",
-      "url": "https://www.nomatic.com/products/the-nomatic-backpack",
-      "product_type": "backpack",
-      "size_liters": 20,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work"],
-      "variant_hint": "Select the 20L option on the product page."
-    },
-    {
-      "id": "navigator-pack-15l",
-      "name": "Navigator Pack 15L",
-      "url": "https://www.nomatic.com/products/navigator-backpack-15l",
-      "product_type": "backpack",
-      "size_liters": 15,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work", "commute"]
-    },
-    {
-      "id": "navigator-rs-pack-15l",
-      "name": "Navigator RS Pack 15L",
-      "url": "https://www.nomatic.com/products/navigator-rs-pack-15l",
-      "product_type": "backpack",
-      "size_liters": 15,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "work", "lightweight"]
-    },
-    {
-      "id": "navigator-collapsible-pack-16l",
-      "name": "Navigator Collapsible Pack 16L",
-      "url": "https://www.nomatic.com/products/navigator-collapsible-backpack",
-      "product_type": "backpack",
-      "size_liters": 16,
-      "laptop_max_inches": 16,
-      "use_case_tags": ["edc", "travel", "packable"]
-    }
-  ]
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Backpack 14L",
+            "subtitle": "14L • EDC, Work, Minimal",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-backpack"
+              }
+            ]
+          },
+          {
+            "title": "Backpack 20L",
+            "subtitle": "20L • EDC, Work",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/the-nomatic-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/the-nomatic-backpack"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Pack 15L",
+            "subtitle": "15L • EDC, Work, Commute",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-backpack-15l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-backpack-15l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator RS Pack 15L",
+            "subtitle": "15L • Lightweight, Work",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-rs-pack-15l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-rs-pack-15l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Collapsible Pack 16L",
+            "subtitle": "16L • Packable, Travel",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-collapsible-backpack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-collapsible-backpack"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
