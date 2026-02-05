@@ -43,6 +43,19 @@
                 "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1"
               }
             ]
+          },
+          {
+            "title": "McKinnon Cube Pack 21L",
+            "subtitle": "21L • Collapsible, Day Pack",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMCP-00-BLK-01_McKinnonCubePack21L_Nomatic__Expanded3Quarter.png?crop=center&height=280&v=1762198212&width=280",
+            "action_url": "https://www.nomatic.com/products/cube-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/cube-pack"
+              }
+            ]
           }
         ]
       }
