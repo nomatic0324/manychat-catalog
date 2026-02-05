@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset Short 7\"",
+            "subtitle": "Short • 7\" Inseam, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SH1-GRY_TheOutsetShorts_7in_GRAY_NOMATIC_OM_11.png?v=1762199806&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/outset-short-7",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/apparel/products/outset-short-7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
