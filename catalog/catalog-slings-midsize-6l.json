@@ -1,0 +1,51 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Navigator Sling 6L",
+            "subtitle": "6L • EDC, Minimal",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/NVSL06-BLK-01_NavigatorSling6L_NOMATIC_ECOMM__Black_Angle.png?crop=center&height=280&v=1762198361&width=280",
+            "action_url": "https://www.nomatic.com/products/navigator-sling-6l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-sling-6l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator RS Sling 6L",
+            "subtitle": "6L • Weather Resistant",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/LTSL06-BLK-01_NavigatorRS6L_BLACK_NOMATIC_01.png?crop=center&height=280&v=1762198483&width=280",
+            "action_url": "https://www.nomatic.com/products/navigator-rs-sling-6l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-rs-sling-6l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Collapsible Sling 6L",
+            "subtitle": "6L • Travel, Packable",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/CSLIN6-BLK-01_NavigatorCollapsibleSling6L_NOMATIC_ECOMM_005.png?crop=center&height=280&v=1762198438&width=280",
+            "action_url": "https://www.nomatic.com/products/navigator-collapsible-sling-6l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-collapsible-sling-6l"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
