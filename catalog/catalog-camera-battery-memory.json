@@ -1,0 +1,38 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "McKinnon Battery Case",
+            "subtitle": "Organization • Batteries",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-battery-case",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-battery-case"
+              }
+            ]
+          },
+          {
+            "title": "McKinnon Memory Card Case",
+            "subtitle": "Organization • SD Cards",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-memory-card-case",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-memory-card-case"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
