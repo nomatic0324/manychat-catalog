@@ -1,0 +1,38 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Flowstate Pullover Hoodie",
+            "subtitle": "Top • Layering, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-HP1-HGR_FlowstateHoodie-Pullover_HeatherGray_NOMATIC_01.png?crop=center&height=550&v=1759955094&width=550",
+            "action_url": "https://www.nomatic.com/products/flowstate-pullover-hoodie",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/flowstate-pullover-hoodie"
+              }
+            ]
+          },
+          {
+            "title": "Flowstate Full-Zip Hoodie",
+            "subtitle": "Top • Zip, Layering",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-HZ1-DOL_FlowstateHoodie-FullZip_DarkOlive_NOMATIC_01.png?crop=center&height=550&v=1759987617&width=550",
+            "action_url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/flowstate-full-zip-hoodie"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
