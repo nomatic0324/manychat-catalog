@@ -1,0 +1,38 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Navigator Sling 10L",
+            "subtitle": "10L • EDC, Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/NVSL10-BLK-01_NavigatorSling10L_Ecomm_Nomatic_Main.png?crop=center&height=280&v=1762198410&width=280",
+            "action_url": "https://www.nomatic.com/products/navigator-sling-10l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-sling-10l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator RS Sling 10L",
+            "subtitle": "10L • Weather Resistant",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/LTSL10-BLK-01_NavigatorRS10L_BLACK_NOMATIC_01.png?crop=center&height=280&v=1762198563&width=280",
+            "action_url": "https://www.nomatic.com/products/navigator-rs-sling-10l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-rs-sling-10l"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
