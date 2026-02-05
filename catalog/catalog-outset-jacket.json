@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset Jacket",
+            "subtitle": "Jacket • Everyday, Outer Layer",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-TS1-BLK_TheOutsetJacket_Black_OM_NOMATIC_03.png?crop=center&height=550&v=1759439827&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-jacket",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-jacket"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
