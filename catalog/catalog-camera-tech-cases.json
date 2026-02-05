@@ -8,7 +8,7 @@
           {
             "title": "Accessory Case",
             "subtitle": "Organization • Accessories",
-            "image_url": "https://www.nomatic.com/cdn/shop/files/PMAC-00-BLK-01_McKinnonAccessoryCase_Nomatic_3Quarter.png?crop=center&height=280&v=1762198213&width=280",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
             "action_url": "https://www.nomatic.com/products/mckinnon-accessory-case",
             "buttons": [
               {
@@ -21,26 +21,13 @@
           {
             "title": "McKinnon Camera Tech Organizer",
             "subtitle": "Organization • Cables, Tech",
-            "image_url": "https://www.nomatic.com/cdn/shop/files/PMTORG-BLK-01_McKinnonTechOrganizer_NOMATIC_ECOMM__Front_Angle.png?crop=center&height=280&v=1762198416&width=280",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
             "action_url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer",
             "buttons": [
               {
                 "type": "url",
                 "caption": "View Item",
                 "url": "https://www.nomatic.com/products/mckinnon-camera-tech-organizer"
-              }
-            ]
-          },
-          {
-            "title": "McKinnon Filter Case",
-            "subtitle": "Organization • Lens Filters",
-            "image_url": "https://www.nomatic.com/cdn/shop/files/PMFC-00-BLK-01_McKinnonFilterCase_NOMATIC_Front_01.png?crop=center&height=280&v=1762198214&width=280",
-            "action_url": "https://www.nomatic.com/products/mckinnon-filter-case",
-            "buttons": [
-              {
-                "type": "url",
-                "caption": "View Item",
-                "url": "https://www.nomatic.com/products/mckinnon-filter-case"
               }
             ]
           }
