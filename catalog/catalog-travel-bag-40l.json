@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Travel Bag 40L",
+            "subtitle": "40L • Luggage, Carry-On",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/TRBG40-BLK-02_TravelBag40L_Nomatic_AngleBack.png?crop=center&height=550&v=1768341042&width=550",
+            "action_url": "https://www.nomatic.com/collections/travel-bags/products/nomatic-travel-bag",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/travel-bags/products/nomatic-travel-bag"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
