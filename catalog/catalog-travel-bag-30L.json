@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Travel Bag 30L",
+            "subtitle": "30L • Luggage, Personal Item",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/CARO30-01-MainAccess.jpg?crop=center&height=550&v=1766188474&width=550",
+            "action_url": "https://www.nomatic.com/collections/travel-bags/products/nomatic-30l-travel-bag",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/travel-bags/products/nomatic-30l-travel-bag"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
