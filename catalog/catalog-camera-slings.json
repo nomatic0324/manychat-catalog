@@ -1,0 +1,77 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "McKinnon Camera Sling 8L",
+            "subtitle": "8L • Daily, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/MS5L-01-Main_edb2b319-3c11-4343-a1d2-fcd34ba632ca.jpg?crop=center&height=550&v=1764185762&width=550",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-sling-8l"
+              }
+            ]
+          },
+          {
+            "title": "McKinnon Camera Sling 5L",
+            "subtitle": "5L • Minimal, Mirrorless",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-sling-5l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-sling-5l"
+              }
+            ]
+          },
+          {
+            "title": "Camera Messenger 13L",
+            "subtitle": "13L • Daily, Work",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/MS5L-01-Main_c4b7246f-1bbc-49cd-927f-7f7b2872f9a0.jpg?crop=center&height=550&v=1759191425&width=550",
+            "action_url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-camera-messenger-13l"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Sling 9L",
+            "subtitle": "9L • Daily, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMLMSG-BLK-01_LumaCameraSling9L_BLACK_NOMATIC_02.png?crop=center&height=550&v=1753816462&width=550",
+            "action_url": "https://www.nomatic.com/products/luma-camera-sling-9l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-sling-9l-1"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Sling 12L",
+            "subtitle": "12L • Daily, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMLMSL-RST-01_LumaCameraSling12L_RUST_NOMATIC_02.png?crop=center&height=550&v=1719945802&width=550",
+            "action_url": "https://www.nomatic.com/products/luma-camera-sling-12l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-sling-12l-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
