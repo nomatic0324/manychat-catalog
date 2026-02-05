@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset Soft-Shell Jacket",
+            "subtitle": "Jacket • Weather, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-SJ1-BLK_OutsetSoftshellJacket-Hoodie_Black_NOMATIC_11.png?crop=center&height=550&v=1762275141&width=550",
+            "action_url": "https://www.nomatic.com/products/outset-soft-shell-jacket",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/outset-soft-shell-jacket"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
