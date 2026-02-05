@@ -1,0 +1,51 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "McKinnon Camera Pack 25L",
+            "subtitle": "25L • Daily, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/MS5L-01-Main_a12e14cc-3dad-4b59-a7de-9e6052f7cc89.jpg?crop=center&height=1800&v=1759189902&width=1800",
+            "action_url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/all-camera/products/mckinnon-camera-backpack-25l"
+              }
+            ]
+          },
+          {
+            "title": "McKinnon Camera Pack 35L",
+            "subtitle": "35L • Travel, Carry On",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMTP-00-BLK-01_McKinnonCameraPack35L_NOMATIC_ECOMM__LeftSide__noZipper.png?crop=center&height=550&v=1762198199&width=550",
+            "action_url": "https://www.nomatic.com/products/camera-pack",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/camera-pack"
+              }
+            ]
+          },
+          {
+            "title": "Luma Camera Pack 18L",
+            "subtitle": "18L • Daily, Travel",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMLMCP-RST-01_LumaCameraPack18L_RUST_NOMATIC_02.png?crop=center&height=550&v=1759343694&width=550",
+            "action_url": "https://www.nomatic.com/products/luma-camera-pack-18l-1",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/luma-camera-pack-18l-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
