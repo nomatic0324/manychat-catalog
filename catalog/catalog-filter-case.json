@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "McKinnon Filter Case",
+            "subtitle": "Organization • Lens Filters",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/PMFC-00-BLK-01_McKinnonFilterCase_NOMATIC_Front_01.png?crop=center&height=280&v=1762198214&width=280",
+            "action_url": "https://www.nomatic.com/products/mckinnon-filter-case",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/mckinnon-filter-case"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
