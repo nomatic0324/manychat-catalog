@@ -1,0 +1,25 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Outset Jogger",
+            "subtitle": "Jogger • Travel, Everyday",
+            "image_url": "https://www.nomatic.com/cdn/shop/files/AN-JP1-BLK_OutsetJogger_BLACK_NOMATIC_OM_04.png?v=1762198475&width=1200",
+            "action_url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/collections/apparel/products/the-outset-jogger"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
