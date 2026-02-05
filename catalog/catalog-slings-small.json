@@ -1,0 +1,51 @@
+{
+  "version": "v2",
+  "content": {
+    "messages": [
+      {
+        "type": "cards",
+        "elements": [
+          {
+            "title": "Navigator Sling 1L",
+            "subtitle": "1L • EDC, Pocket Carry",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-sling-1l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-sling-1l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator RS Sling 1L",
+            "subtitle": "1L • Weather Resistant",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-rs-sling-1l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-rs-sling-1l"
+              }
+            ]
+          },
+          {
+            "title": "Navigator Collapsible Sling 3L",
+            "subtitle": "3L • Travel, Packable",
+            "image_url": "PLACEHOLDER_IMAGE_HERE",
+            "action_url": "https://www.nomatic.com/products/navigator-collapsible-sling-3l",
+            "buttons": [
+              {
+                "type": "url",
+                "caption": "View Item",
+                "url": "https://www.nomatic.com/products/navigator-collapsible-sling-3l"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
